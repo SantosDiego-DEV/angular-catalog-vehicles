@@ -35,7 +35,7 @@ export class VContactPage implements OnInit {
         title: 'Contato & Conexões',
         message: 'Vamos conversar sobre engenharia de software, arquitetura ou novas oportunidades? Entre em contato pelos canais abaixo:<br><br>' +
                  '📧 <strong>E-mail:</strong> <a href="mailto:santos.diego9898@gmail.com" style="color: var(--mat-sys-primary); text-decoration: underline;">santos.diego9898@gmail.com</a><br><br>' +
-                 '🐙 <strong>GitHub:</strong> <a href="https://github.com/DiegoSantos18" target="_blank" style="color: var(--mat-sys-primary); text-decoration: underline;">github.com/DiegoSantos18</a><br><br>' +
+                 '🐙 <strong>GitHub:</strong> <a href="https://github.com/SantosDiego-DEV" target="_blank" style="color: var(--mat-sys-primary); text-decoration: underline;">github.com/SantosDiego-DEV</a><br><br>' +
                  '💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/diego-dos-santos-5a7509151" target="_blank" style="color: var(--mat-sys-primary); text-decoration: underline;">linkedin.com/in/diego-dos-santos-5a7509151</a><br><br>' +
                  '📍 <strong>Localidade:</strong> Caxias do Sul - RS'
       }
