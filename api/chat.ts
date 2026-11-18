@@ -8,7 +8,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import OpenAI from 'openai';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
-  const allowedOrigin = 'https://SantosDiego-DEV.github.io';
+  const allowedOrigin = 'https://santosdiego-dev.github.io';
   const origin = req.headers.origin;
 
   if (origin === allowedOrigin || origin?.startsWith('http://localhost:')) {
